@@ -197,3 +197,23 @@ INFO 2025-11-19 04:38:08,041 autoreload 16104 17288 C:\Users\johnii\Downloads\li
 INFO 2025-11-19 04:38:23,208 autoreload 18928 23324 Watching for file changes with StatReloader
 INFO 2025-11-19 04:38:30,707 autoreload 18928 23324 C:\Users\johnii\Downloads\library-management-system\backend\authentication\serializers.py changed, reloading.
 INFO 2025-11-19 04:38:47,554 autoreload 21896 21252 Watching for file changes with StatReloader
+WARNING 2025-11-19 15:03:44,083 log 3968 20068 Bad Request: /api/books/4/borrow/
+WARNING 2025-11-19 15:03:52,418 log 3968 20068 Forbidden: /api/books/
+WARNING 2025-11-19 15:07:24,325 log 8708 9968 Bad Request: /api/books/4/borrow/
+WARNING 2025-11-19 15:07:32,499 log 8708 9968 Forbidden: /api/books/
+WARNING 2025-11-19 15:08:02,514 log 21920 15704 Bad Request: /api/books/4/borrow/
+WARNING 2025-11-19 15:08:10,685 log 21920 15704 Forbidden: /api/books/
+WARNING 2025-11-19 15:08:46,353 log 9772 18792 Bad Request: /api/books/4/borrow/
+WARNING 2025-11-19 15:08:54,610 log 9772 18792 Forbidden: /api/books/
+WARNING 2025-11-19 15:09:40,744 log 25028 23312 Bad Request: /api/books/1/reserve/
+WARNING 2025-11-19 15:10:31,509 log 25508 19008 Not Found: /login
+WARNING 2025-11-19 15:10:31,749 log 25508 19008 Not Found: /favicon.ico
+INFO 2025-11-19 15:10:35,932 basehttp 25508 24168 - Broken pipe from ('127.0.0.1', 55772)
+INFO 2025-11-19 15:10:35,981 basehttp 25508 25364 - Broken pipe from ('127.0.0.1', 55771)
+INFO 2025-11-19 15:10:35,984 basehttp 25508 19008 - Broken pipe from ('127.0.0.1', 55770)
+WARNING 2025-11-19 15:11:41,571 log 17084 2880 Bad Request: /api/books/4/borrow/
+WARNING 2025-11-19 15:11:53,614 log 17084 2880 Forbidden: /api/books/
+WARNING 2025-11-19 15:28:50,222 log 1740 14916 Bad Request: /api/books/4/borrow/
+WARNING 2025-11-19 15:29:02,252 log 1740 14916 Forbidden: /api/books/
+WARNING 2025-11-19 15:30:36,043 log 25816 25568 Bad Request: /api/books/4/borrow/
+WARNING 2025-11-19 15:30:43,822 log 25816 25568 Forbidden: /api/books/
